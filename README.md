@@ -4,7 +4,7 @@
 ## 🚀 Skills
 - Languages: HTML, CSS, JavaScript ,Python
 - Frameworks/Libraries: React
-- Tools: Git, Postman, npm , Visual Studio Code, Codepen, Replit
+- Tools: Git, Postman, npm , Visual Studio Code, Codepen, Replit.
 
 - 🌎 I am from Ranchi jharkhand , India
 - 🌱 I’m currently learning Backend (Full Stack Web Development)
